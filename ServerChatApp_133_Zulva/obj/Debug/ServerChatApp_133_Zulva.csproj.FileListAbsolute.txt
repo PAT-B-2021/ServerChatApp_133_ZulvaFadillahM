@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\ServerChatApp_133_Zulva.exe.config
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\ServerChatApp_133_Zulva.exe
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\ServerChatApp_133_Zulva.pdb
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\obj\Debug\ServerChatApp_133_Zulva.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\obj\Debug\ServerChatApp_133_Zulva.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\obj\Debug\ServerChatApp_133_Zulva.exe
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\obj\Debug\ServerChatApp_133_Zulva.pdb
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\WCFService_2Way_133.dll
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\WCFService_2Way_133.pdb
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\bin\Debug\WCFService_2Way_133.dll.config
+C:\Users\Lenovo\source\repos\ServerChatApp_133_Zulva\ServerChatApp_133_Zulva\obj\Debug\ServerChatApp_133_Zulva.csproj.AssemblyReference.cache
